@@ -14,3 +14,7 @@
 - [x] Add Vitest coverage for upload validation, role authorization, and review rules
 - [x] Run type checks, tests, and browser visual verification
 - [x] Save the final project checkpoint for delivery
+
+- [ ] Verify the configured GitHub remote, branch, and author identity for delivery
+- [ ] Push the completed application to the user's GitHub repository without overwriting unrelated remote changes
+- [ ] Confirm the pushed commit and repository URL to the user
