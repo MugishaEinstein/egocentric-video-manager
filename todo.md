@@ -18,3 +18,7 @@
 - [x] Verify the configured GitHub remote, branch, and author identity for delivery
 - [x] Push the completed application to the user's GitHub repository without overwriting unrelated remote changes
 - [x] Confirm the pushed commit and repository URL to the user
+
+- [x] Write a detailed Ubuntu deployment README covering prerequisites, environment variables, database setup, ffprobe, production startup, reverse proxy/TLS, backups, logs, upgrades, and troubleshooting
+- [x] Validate the deployment README against the current Dockerfile, scripts, and project configuration
+- [ ] Commit and push the deployment README to GitHub
