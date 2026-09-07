@@ -1,5 +1,27 @@
 {
   "version": "7",
   "dialect": "mysql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788757184605,
+      "tag": "0000_spicy_garia",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788757315064,
+      "tag": "0001_lonely_skullbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1788757575111,
+      "tag": "0002_light_centennial",
+      "breakpoints": true
+    }
+  ]
 }
