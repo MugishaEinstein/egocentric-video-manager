@@ -21,4 +21,4 @@
 
 - [x] Write a detailed Ubuntu deployment README covering prerequisites, environment variables, database setup, ffprobe, production startup, reverse proxy/TLS, backups, logs, upgrades, and troubleshooting
 - [x] Validate the deployment README against the current Dockerfile, scripts, and project configuration
-- [ ] Commit and push the deployment README to GitHub
+- [x] Commit and push the deployment README to GitHub
